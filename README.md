@@ -25,25 +25,26 @@
   <img align="left" alt="Web Components" height="26px" src="https://cdn.svgporn.com/logos/webcomponents.svg"/>
   [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
   <img align="left" alt="Postman" height="26px" src="https://cdn.svgporn.com/logos/postman-icon.svg"/>
-    <img align="left" alt="Python" height="26px" src="https://cdn.svgporn.com/logos/python.svg"/>
+  <img align="left" alt="Python" height="26px" src="https://cdn.svgporn.com/logos/python.svg"/>
   <img align="left" alt="StackOverflow" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"/>
+  <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/sass.svg"/>
+  <img align="left" alt="PWA" height="26px" src="https://cdn.svgporn.com/logos/pwa.svg"/>
+  <img align="left" alt="MySQL" height="26px" src="https://cdn.svgporn.com/logos/mysql.svg"/>
+  <img align="left" alt="Sequelize" height="26px" src="https://cdn.svgporn.com/logos/sequelize.svg"/>
 
 <br />
 
 ### What I'm learning:
- <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/sass.svg"/>
- <img align="left" alt="MySQL" height="26px" src="https://cdn.svgporn.com/logos/mysql.svg"/>
- <img align="left" alt="Sequelize" height="26px" src="https://cdn.svgporn.com/logos/sequelize.svg"/>
+ <img align="left" alt="Vue" height="26px" src="https://cdn.svgporn.com/logos/vue.svg"/>
+ <img align="left" alt="Svelte" height="26px" src="https://cdn.svgporn.com/logos/svelte-icon.svg"/>
  <img align="left" alt="Fastify" height="26px" src="https://cdn.svgporn.com/logos/fastify-icon.svg"/>
- <img align="left" alt="PWA" height="26px" src="https://cdn.svgporn.com/logos/pwa.svg"/>
+ <img align="left" alt="TypeScript" height="26px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/>
 
 <br />
 
 ### What I'd like to learn:
-  <img align="left" alt="Vue" height="26px" src="https://cdn.svgporn.com/logos/vue.svg"/>
   <img align="left" alt="Angular" height="26px" src="https://cdn.svgporn.com/logos/angular-icon.svg"/>
   <img align="left" alt="React" height="26px" src="https://cdn.svgporn.com/logos/react.svg"/>
-  <img align="left" alt="Svelte" height="26px" src="https://cdn.svgporn.com/logos/svelte-icon.svg"/>
   <img align="left" alt="Nest" height="26px" src="https://cdn.svgporn.com/logos/nestjs.svg"/>
   <img align="left" alt="Django" height="26px" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
   <img align="left" alt="oAuth" height="26px" src="https://cdn.svgporn.com/logos/oauth.svg"/>
