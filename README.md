@@ -8,9 +8,9 @@
 
 ## ℹ What Am I Doing?
 
-  - 👨‍💻 I'm trying to teach myself how to code
-  - 👨‍🎓 Studying for 3 A-Levels.
-  - 🍽 My plate is a tad full
+  - 👨‍💻 Learning how to center a div.
+  - 👨‍🎓 Doing 3 A-Levels.
+  - 🚲 Falling off my bike.
 
 <br />
 
