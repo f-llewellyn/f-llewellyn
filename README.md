@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Finn Llewellyn 😁
+## 👋 Hi, I'm Finn 😁
 
 <!-- [![GitHub Website](https://img.shields.io/website?down_color=FC0000&down_message=Offline (for now)&label=f-llewellyn.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Ff-llewellyn.github.io)](https://f-llewellyn.github.io) -->
 [![GitHub Follow](https://img.shields.io/github/followers/f-llewellyn?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF)](https://github.com/f-llewellyn?tab=followers)
@@ -8,7 +8,7 @@
 
 ## ℹ What Am I Doing?
 
-  - 👨‍💻 Learning how to center a div.
+  - 👨‍💻 Learning how to centre a div.
   - 👨‍🎓 Doing 3 A-Levels.
   - 🚲 Falling off my bike.
 
