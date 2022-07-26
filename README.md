@@ -9,7 +9,7 @@
 ## ℹ What Am I Doing?
 
   - 👨‍💻 De-mincifying poorly written CSS.
-  - 💼 Getting started inn my first developer job.
+  - 💼 Getting started at my first developer job.
   - 🚲 Falling off my bike.
 
 <br />
