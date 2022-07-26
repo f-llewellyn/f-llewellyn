@@ -8,52 +8,50 @@
 
 ## ℹ What Am I Doing?
 
-  - 👨‍💻 Learning how to centre a div.
-  - 👨‍🎓 Doing 3 A-Levels.
+  - 👨‍💻 De-mincifying poorly written CSS.
+  - 💼 Getting started inn my first developer job.
   - 🚲 Falling off my bike.
 
 <br />
 
 ## 💻 Tools & Languages:
 ### What I use now:
-  [<img align="left" alt="GitHub" width="26px" src="https://cdn.svgporn.com/logos/github-icon.svg" />][GitHub]
-  <img align="left" alt="Git" height="26px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
   [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />][VSCode]
   <img align="left" alt="HTML5" height="26px" src="https://cdn.svgporn.com/logos/html-5.svg"/>
   <img align="left" alt="CSS3" height="26px" src="https://cdn.svgporn.com/logos/css-3.svg"/>
   [<img align="left" alt="JavaScript" width="26px" src="http://3con14.biz/code/_data/js/intro/js-logo.png" />][JS]
-  <img align="left" alt="Web Components" height="26px" src="https://cdn.svgporn.com/logos/webcomponents.svg"/>
+  <img align="left" alt="Svelte" height="26px" src="https://cdn.svgporn.com/logos/svelte-icon.svg"/>
+<img align="left" alt="Vue" height="26px" src="https://cdn.svgporn.com/logos/vue.svg"/>
+  <img align="left" alt="React" height="26px" src="https://cdn.svgporn.com/logos/react.svg"/>
+    <img align="left" alt="SvelteKit" height="26px" src="https://cdn.svgporn.com/logos/svelte-kit.svg"/>
   [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
-  <img align="left" alt="Postman" height="26px" src="https://cdn.svgporn.com/logos/postman-icon.svg"/>
+  <img align="left" alt="MongoDB" height="26px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
+  <img align="left" alt="Insomnia" height="26px" src="https://cdn.svgporn.com/logos/insomnia.svg"/>
   <img align="left" alt="Python" height="26px" src="https://cdn.svgporn.com/logos/python.svg"/>
   <img align="left" alt="StackOverflow" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"/>
   <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/sass.svg"/>
   <img align="left" alt="PWA" height="26px" src="https://cdn.svgporn.com/logos/pwa.svg"/>
-  <img align="left" alt="MySQL" height="26px" src="https://cdn.svgporn.com/logos/mysql.svg"/>
-  <img align="left" alt="Sequelize" height="26px" src="https://cdn.svgporn.com/logos/sequelize.svg"/>
+  <img align="left" alt="oAuth" height="26px" src="https://cdn.svgporn.com/logos/oauth.svg"/>
 
 <br />
 
 ### What I'm learning:
- <img align="left" alt="Vue" height="26px" src="https://cdn.svgporn.com/logos/vue.svg"/>
- <img align="left" alt="Svelte" height="26px" src="https://cdn.svgporn.com/logos/svelte-icon.svg"/>
- <img align="left" alt="Fastify" height="26px" src="https://cdn.svgporn.com/logos/fastify-icon.svg"/>
  <img align="left" alt="TypeScript" height="26px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/>
+ <img align="left" alt="Next.js" height="26px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"/>
+ <img align="left" alt="Nuxt.js" height="26px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg"/>
+ <img align="left" alt="GraphQl" height="26px" src="https://cdn.svgporn.com/logos/graphql.svg"/>
 
 <br />
 
 ### What I'd like to learn:
-  <img align="left" alt="Angular" height="26px" src="https://cdn.svgporn.com/logos/angular-icon.svg"/>
-  <img align="left" alt="React" height="26px" src="https://cdn.svgporn.com/logos/react.svg"/>
+  
   <img align="left" alt="Nest" height="26px" src="https://cdn.svgporn.com/logos/nestjs.svg"/>
   <img align="left" alt="Django" height="26px" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
-  <img align="left" alt="oAuth" height="26px" src="https://cdn.svgporn.com/logos/oauth.svg"/>
   <img align="left" alt="Firebase" height="26px" src="https://cdn.svgporn.com/logos/firebase.svg"/>
   <img align="left" alt="Docker" height="26px" src="https://cdn.svgporn.com/logos/docker-icon.svg"/>
   <img align="left" alt="Web Assembly" height="26px" src="https://cdn.svgporn.com/logos/webassembly.svg"/>
   <img align="left" alt="NGINX" height="26px" src="https://cdn.svgporn.com/logos/nginx.svg"/>
   <img align="left" alt="AWS" height="26px" src="https://cdn.svgporn.com/logos/aws.svg"/>
-  <img align="left" alt="GraphQl" height="26px" src="https://cdn.svgporn.com/logos/graphql.svg"/>
   <img align="left" alt="Flutter" height="26px" src="https://cdn.svgporn.com/logos/flutter.svg"/>
   
 <br />
