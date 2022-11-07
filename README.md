@@ -1,75 +1,60 @@
-## 👋 Hi, I'm Finn 😁
+<p>
+<img src="https://komarev.com/ghpvc/?username=f-llewellyn" label="Profile Views" alt="Profile Views" />
+<img src="https://custom-icon-badges.demolab.com/github/followers/f-llewellyn?color=ac4dfa&label=GitHub%20Followers&logo=github&logoColor=ac4dfa" label="Github Followers" alt="Github Followers" />
+<img src="https://custom-icon-badges.demolab.com/github/stars/f-llewellyn?color=27e660&label=Stars&logo=star&logoColor=27e660" label="Github Followers" alt="Githhub Followers" />
+</p>
 
-<!-- [![GitHub Website](https://img.shields.io/website?down_color=FC0000&down_message=Offline (for now)&label=f-llewellyn.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Ff-llewellyn.github.io)](https://f-llewellyn.github.io) -->
-[![GitHub Follow](https://img.shields.io/github/followers/f-llewellyn?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF)](https://github.com/f-llewellyn?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=f-llewellyn)](https://github.com/f-llewellyn)
-[![GitHub stars](https://img.shields.io/github/stars/f-llewellyn)](https://github.com/f-llewellyn)
-<!-- [![Telegram Channel](https://img.shields.io/badge/f-llewellyn%20Channel-Join-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/f-llewellyn_Channel) -->
+# 🎉 Finn Llewellyn
 
-## ℹ What Am I Doing?
+**`Full-Stack Developer`**
 
-  - 👨‍💻 De-mincifying poorly written CSS.
-  - 💼 Getting started at my first developer job.
-  - 🚲 Falling off my bike.
-
-<br />
-
-## 💻 Tools & Languages:
-### What I use now:
-  [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />][VSCode]
-  <img align="left" alt="HTML5" height="26px" src="https://cdn.svgporn.com/logos/html-5.svg"/>
-  <img align="left" alt="CSS3" height="26px" src="https://cdn.svgporn.com/logos/css-3.svg"/>
-  [<img align="left" alt="JavaScript" width="26px" src="http://3con14.biz/code/_data/js/intro/js-logo.png" />][JS]
-  <img align="left" alt="Svelte" height="26px" src="https://cdn.svgporn.com/logos/svelte-icon.svg"/>
-<img align="left" alt="Vue" height="26px" src="https://cdn.svgporn.com/logos/vue.svg"/>
-  <img align="left" alt="React" height="26px" src="https://cdn.svgporn.com/logos/react.svg"/>
-    <img align="left" alt="SvelteKit" height="26px" src="https://cdn.svgporn.com/logos/svelte-kit.svg"/>
-  [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
-  <img align="left" alt="MongoDB" height="26px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
-  <img align="left" alt="Insomnia" height="26px" src="https://cdn.svgporn.com/logos/insomnia.svg"/>
-  <img align="left" alt="Python" height="26px" src="https://cdn.svgporn.com/logos/python.svg"/>
-  <img align="left" alt="StackOverflow" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"/>
-  <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/sass.svg"/>
-  <img align="left" alt="PWA" height="26px" src="https://cdn.svgporn.com/logos/pwa.svg"/>
-  <img align="left" alt="oAuth" height="26px" src="https://cdn.svgporn.com/logos/oauth.svg"/>
-
-<br />
-
-### What I'm learning:
- <img align="left" alt="TypeScript" height="26px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/>
- <img align="left" alt="Next.js" height="26px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"/>
- <img align="left" alt="Nuxt.js" height="26px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg"/>
- <img align="left" alt="GraphQl" height="26px" src="https://cdn.svgporn.com/logos/graphql.svg"/>
-
-<br />
-
-### What I'd like to learn:
-  
-  <img align="left" alt="Nest" height="26px" src="https://cdn.svgporn.com/logos/nestjs.svg"/>
-  <img align="left" alt="Django" height="26px" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
-  <img align="left" alt="Firebase" height="26px" src="https://cdn.svgporn.com/logos/firebase.svg"/>
-  <img align="left" alt="Docker" height="26px" src="https://cdn.svgporn.com/logos/docker-icon.svg"/>
-  <img align="left" alt="Web Assembly" height="26px" src="https://cdn.svgporn.com/logos/webassembly.svg"/>
-  <img align="left" alt="NGINX" height="26px" src="https://cdn.svgporn.com/logos/nginx.svg"/>
-  <img align="left" alt="AWS" height="26px" src="https://cdn.svgporn.com/logos/aws.svg"/>
-  <img align="left" alt="Flutter" height="26px" src="https://cdn.svgporn.com/logos/flutter.svg"/>
-  
-<br />
-<br />
-
-As you can see, I'm very interested in web and app technologies 😆
+I build things for the web that real people would want to use. I'm a self taught, full-stack developer that's been gradually learning for the past 7 years, trying to grow and improve each day. With some comercial experience now under my belt, I feel like a real developer 😁.
 
 ---
 
+## ℹ What Am I Doing?
+
+-   💼 Getting started at my first developer job.
+-   👨‍💻 Trying to fix css bugs.
+-   🚲 Falling off my bike.
+
+<br />
+
+## 🧰 Tools & Languages:
+
+**What I use now:**
+
+<p>
+    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+</p>
+
+<br />
+<br />
+
+**What I'm learning:**
+
+<p>
+    <img align="left" alt="Rust" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+    <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+</p>
+
+<br />
+
 ### 🏆 GitHub Statistics
 
-<img align="left" alt="f-llewellyn GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=f-llewellyn&show_icons=true&hide_title=false&title_color=FFFFFFa&text_color=FFFFFF&bg_color=110,000000,000000&icon_color=28ce60&include_all_commits=true&hide_border=true" />
-
-[GitWeb]: https://f-llewellyn.github.io
-[Discord]: https://discord.com/users/352520278103949312
-[Telegram]: https://t.me/f-llewellyn
-[Email]: mailto://f-llewellyn@protonmail.com
-[GitHub]: https://github.com
-[VSCode]: https://code.visualstudio.com
-[JS]: https://www.javascript.com
-[NodeJS]: https://nodejs.org
+<img align="left" alt="f-llewellyn GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=f-llewellyn&show_icons=true&hide_title=true&title_color=FFFFFFa&text_color=FFFFFF&bg_color=0d1117&icon_color=28ce60&include_all_commits=true&hide_border=true" />
